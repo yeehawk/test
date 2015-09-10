@@ -8,3 +8,5 @@ for x in range(5):
 
 
     # mainfile changed!
+
+    # now change on a rebision/dettached HEAD
