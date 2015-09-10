@@ -1,4 +1,4 @@
-__author__ = 'kuchi'
+__author__ = 'Yeehawk'
 
 def sub(x):
     return x*x
